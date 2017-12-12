@@ -1,3 +1,12 @@
+12.12.2017 : Version 2.2.2
+- correzione problema Playlist dailymotion con skin Estuary
+- aggiunto supporto a urlresolver
+- risoluzione nativa url video di wstream, thevideo.me, speedvideo, streamango (no download), rapidvideo, rapidvideo.com, openload, nowvideo, megadrive, vidto.me, stream.moe, akvideo, vivo.sx
+- aggiunta funzione inserimento e memorizzazione chiavi di decriptazione AES come password per file XML
+- fix download resume (modifica user-agent)
+- fix porn HD
+- fix canali TV
+
 09.07.2017 : Version 2.2.1
 - aggiunto supporto video Dailymotion
 - aggiunto supporto playlist daylimotion
