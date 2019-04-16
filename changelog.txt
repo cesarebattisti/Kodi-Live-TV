@@ -1,3 +1,19 @@
+16.04.2019: Version 2.6.1
+- fix problema prima installazione
+
+13.04.2019: Version 2.6.0
+- aggiunto G-Drive Downloader
+- abilitato download in cartelle condivise con samba (no resume)
+- nuovi canali radio RAI
+- nuova sezione XXX 
+- fix problemi aggiornamenti in Kodi 18 (Android)
+- fix bug setting (Kodi 18)
+- fix scraper (Openload, Mediafire)
+- fix backup PM
+- fix canali italiani non funzionanti
+- fix downloader
+- fix problemi menu download
+
 29.12.2017 : Version 2.5.0
 - gestione link video su siti di file sharing anche in liste m3u
 - fix canali Teleboy
